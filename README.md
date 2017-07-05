@@ -6,12 +6,12 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 If you think that these can be improved in anyway, please do suggest.
 
+***
+
+<p align="center"><b> Did you like this guide and want more of the similar content? </b><br>We are releasing <a href="http://hugobots.com">Hugobots</a> soon. Make sure to subscribe!</p>
 
 ***
 
-<p align="center"><b> Ever wanted to make something big?</b><br>Visit <a href="http://hugobots.com">Hugobots</a> for a dose of inspiration!</p>
-
-***
 
 ## 🚀 Introduction
 
@@ -51,11 +51,12 @@ The roadmaps are built using [Balsamiq](https://balsamiq.com/products/mockups/).
 - Open pull request with improvements
 - Discuss ideas in issues
 - Spread the word
-- Reach out to me directly at kamranahmed.se@gmail.com or on Twitter [@kamranahmedse](http://twitter.com/kamranahmedse)
+- Reach out to me directly at kamranahmed.se@gmail.com or [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
 
 ## Sponsored By
 
-[FancyGrid - JavaScript grid library with charts integration and server communication.](http://fancygrid.com)
+- [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io)
+- [FancyGrid - JavaScript grid library with charts integration and server communication.](http://fancygrid.com)
 
 ## License
 
